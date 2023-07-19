@@ -1,2 +1,4 @@
 # Buying-Selling-and-Auction-Platform
-# Project
+
+# This is a small implementation for a E-commerece Company 
+# for buying and selling of Second hand products
